@@ -1,7 +1,9 @@
 # WO Analysis — Garmin Workout Analytics & AI Training Planner
 
 > **⚠️ Do It At Your Own Risk**
-> This project is provided as-is. AI-generated training plans are suggestions only and do not replace professional coaching or medical advice. Always consult a qualified coach or physician before starting any training program. The authors accept no liability for injuries, overtraining, data loss, account restrictions, or any other harm resulting from use of this software. Use at your own risk.
+> This project is provided as-is. AI-generated training plans are suggestions only and do not replace professional coaching or medical advice. It may use your Garmin username and password to access Garmin services, so you should understand exactly what you are doing before signing in and only proceed if you are comfortable with the security and privacy implications. Always consult a qualified coach or physician before starting any training program. The authors accept no liability for injuries, overtraining, data loss, account restrictions, or any other harm resulting from use of this software.
+
+![Screenshot of the dashboard page showing various charts and metrics](./554_1x_shots_so.png)
 
 A comprehensive Next.js application that ingests your Garmin DI Connect export (or syncs live from Garmin Connect), parses every metric into a unified analytics model, visualizes training trends, and generates periodized training plans powered by AI — with the ability to export workouts as `.fit` files and upload them directly to your Garmin account.
 
